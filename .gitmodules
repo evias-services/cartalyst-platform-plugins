@@ -1,0 +1,3 @@
+[submodule "evias-bare-extension"]
+	path = evias-bare-extension
+	url = git@github.com:evias-services/evias-bare-extension.git
